@@ -1,0 +1,11 @@
+a=np.arange(6)
+
+b.reshape(6,3)
+
+np.argsort(b,axis=0)
+
+np.argsort(b)
+
+np.argmin(b) #min index
+
+np.argmax(b) #max index

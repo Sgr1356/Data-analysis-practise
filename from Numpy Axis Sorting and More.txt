@@ -1,0 +1,11 @@
+numpy array define two axis 0 and 1
+
+sum(axis=1)   ##row wise sum
+sum(axis=0)   ##column wise Sum
+
+
+np.cross(ar1,b)
+
+np.sort(ar1)
+
+np.sort(ar1,axis=0)
